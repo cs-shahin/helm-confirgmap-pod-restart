@@ -1,4 +1,4 @@
-{{ define "mylibchart.service" }}
+{{- define "mylibchart.service" }}
 apiVersion: v1
 kind: Service
 metadata:

@@ -1,4 +1,4 @@
-{{ define "mylibchart.configmap" }}
+{{- define "mylibchart.configmap" }}
 apiVersion: v1
 kind: ConfigMap
 metadata:

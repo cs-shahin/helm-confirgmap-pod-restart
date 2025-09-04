@@ -27,4 +27,4 @@ appVersion: "1.16.0"
 dependencies:
   - name: mylibchart
     version: 1.0.0
-    repository: file://../mylibchart
+    repository: https://github.com/cs-shahin/helm-confirgmap-pod-restart.git

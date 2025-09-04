@@ -1,5 +1,0 @@
-{{- include "mylibchart.deployment" . }}
----
-{{- include "mylibchart.service" . }}
----
-{{- include "mylibchart.configmap" . }}

@@ -1,4 +1,4 @@
-{{ define "mylibchart.deployment" }}
+{{- define "mylibchart.deployment" }}
 apiVersion: apps/v1
 kind: Deployment
 metadata:
